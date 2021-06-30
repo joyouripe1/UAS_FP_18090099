@@ -1,6 +1,10 @@
-### [Aplikasi Perekaman Toko Buku](http://bookstore-adesug.herokuapp.com/) klik
-### [Diagram dan penjelasan](https://drive.google.com/file/d/1DsYMeY8FXMdUVxyXjaFOSRkWBNsQ4oB5/view?usp=sharing) klik
+### [Aplikasi Perekaman Toko Buku](http://crud-barang-joyo.herokuapp.com/) klik
+### [Diagram dan penjelasan]() klik
 #### By
+
+Login
+Email    : qwerty@gmail.com
+Password : adminqwerty
 
 - NIM   : 18090099
 - Nama  : Tri Joyo Priambodo
