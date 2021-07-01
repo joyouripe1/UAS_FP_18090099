@@ -1,5 +1,5 @@
 ### [Aplikasi Perekaman Toko Buku](http://crud-barang-joyo.herokuapp.com/) klik
-### [Diagram dan penjelasan]() klik
+### [Diagram dan penjelasan](https://drive.google.com/drive/folders/14i_3aQ20I6CMFtZou_rmoA224LcGQLTD?usp=sharing) klik
 #### By
 
 Login
